@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-flutter developer<br>-Front End Developer</p>
+<p align="left">-Flutter developer<br>-Front End Developer</p>
 
 ###
 
